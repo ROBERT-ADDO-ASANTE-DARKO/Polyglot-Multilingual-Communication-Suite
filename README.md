@@ -6,8 +6,6 @@
 
 Polyglot is an end-to-end solution for breaking language barriers using AI-powered transcription, translation, and text extraction capabilities. Built with Streamlit, this application provides an intuitive interface for multilingual communication.
 
-![Polyglot Demo](https://via.placeholder.com/800x400?text=Polyglot+Demo)
-
 ## 🚀 Features
 
 - **Audio Transcription**: Convert spoken language to text using OpenAI's Whisper model
@@ -87,9 +85,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - your.email@example.com
+Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - raddo2961@gmail.com
 
-Project Link: [https://github.com/yourusername/polyglot](https://github.com/yourusername/polyglot)
+Project Link: [https://github.com/yourusername/polyglot]([https://github.com/yourusername/polyglot](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Polyglot-Multilingual-Communication-Suite))
 
 ## 🙏 Acknowledgments
 
