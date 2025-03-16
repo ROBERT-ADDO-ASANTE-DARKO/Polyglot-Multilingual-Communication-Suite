@@ -10,7 +10,6 @@ from PIL import Image
 import easyocr
 import cv2
 import numpy as np
-import asyncio
 import time
 
 # Page configuration
@@ -268,9 +267,9 @@ if selected_tab == "Audio Transcription":
                     progress_bar = simulate_progress()
                     
                     try:
-                        translation = asyncio.run(translator.translate(
+                        translation = translator.translate(
                             st.session_state.transcription, dest=language
-                        ))
+                        )
                         st.session_state.translated_text = translation.text
                         st.success("✅ Translation complete!")
                     except Exception as e:
