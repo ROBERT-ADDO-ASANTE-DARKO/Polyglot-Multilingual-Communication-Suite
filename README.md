@@ -85,9 +85,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📬 Contact
 
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - raddo2961@gmail.com
+Robert Yaw Agyekum Addo - raddo2961@gmail.com
 
-Project Link: [https://github.com/yourusername/polyglot]([https://github.com/yourusername/polyglot](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Polyglot-Multilingual-Communication-Suite))
+Project Link: [GitHub](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Polyglot-Multilingual-Communication-Suite)
 
 ## 🙏 Acknowledgments
 
