@@ -23,7 +23,7 @@ Polyglot is an end-to-end solution for breaking language barriers using AI-power
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/polyglot.git
+git clone https://github.com/ROBERT-ADDO-ASANTE-DARKO/Polyglot-Multilingual-Communication-Suite.git
 cd polyglot
 ```
 
